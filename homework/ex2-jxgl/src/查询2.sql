@@ -1,0 +1,8 @@
+use jxgl;
+
+SELECT STUDENT.SNAME
+FROM STUDENT, SC
+WHERE STUDENT.SNO = SC.SNO AND
+      STUDENT.SSEX = '女' AND 
+      SC.CNO > 0; 
+      
