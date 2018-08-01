@@ -30,7 +30,6 @@ After installing MySQL and Workbench, run this code on the terminal, or in a mor
 
 Copyright © Nino 2018.
 
-
 ## Thanks
 
 * My mentor Sang's technical assistance.
