@@ -3,7 +3,9 @@
 This repository provides source codes containing Database Management System homework for Sun-Yet-Sen University Sophomore.
 
 > Homework for sophomore of SDCS, SYSU. 
+>
 > MySQL courses by Yingpeng Sang, SDCS, SYSU. 
+>
 > Author Nino Lau.
 
 ## Introduce
