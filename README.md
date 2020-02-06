@@ -1,6 +1,6 @@
 # MySQL_Database_Experiments
 
-This repository provides source codes containing Database Management System homework for Sun-Yet-Sen University Sophomore.
+This repository provides source codes containing Database Management System homework for Sun Yat-sen University Sophomore.
 
 > Homework for sophomore of SDCS, SYSU. 
 >
